@@ -1,4 +1,4 @@
-# Ariel's Prototype Cookbook
+# Ariel's Hurricane Ida Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -12,14 +12,16 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Hurricane Ida was one of the most intense storms to strike the U.S. Gulf Coast in recent history.
+This cookbook demonstrates how Python can be used to process, visualize, and interpret atmospheric data related to tropical cyclone landfall events.
+By completing this notebook, you will gain skills in data processing, visualization, and meteorological analysis using Python tools applied to a real-world case study.
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+Ariel Fuller
 
 ### Contributors
-
+Daniel Harkin - Kimberly Riek
 <a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
 </a>
@@ -28,13 +30,15 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 (State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Section 1: Introduction and Data Setup
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+Introduction and data setup covers background on Hurricane Ida and imports the datasets used for analysis.
+Includes setup for working with reanalysis data, and Python visualization libraries.
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Section 2: Atmospheric Analysis
 
-(Add content for this section, e.g., "Example workflows include ... ")
+Atmospheric analysis uses Python to analyze key meteorological variables such as sea level pressure, wind speed, and temperature at the time of landfall.
+This section also focuses on visualizing Ida’s structure and understanding the conditions that led to its rapid intensification.
 
 ## Running the Notebooks
 

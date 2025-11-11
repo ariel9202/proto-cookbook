@@ -1,6 +1,14 @@
-thumbnail: thumbnail.png
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ida_2021-08-29_1610Z.png/640px-Ida_2021-08-29_1610Z.png
 tags:
   domains:
-    - sampledomain
+    - atmospheric-science
+    - hurricane
+    - climate-data
+    - coastal-impacts
   packages:
-    - samplepackage
+    - tropycal
+    - xarray
+    - cartopy
+    - matplotlib
+    - numpy
+    - pandas

@@ -3,19 +3,20 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Prototype Project Repo
-  github: https://github.com/projectpythia/cookbook-template
+  title: Analyzing the Landfall of Hurricane Ida- Atmospheric Dynamics and Impacts
+  github: https://github.com/ariel9202/proto-cookbook
   authors:
-    - name: The Project Pythia Community
+    - name: Ariel Fuller
   copyright: '2025'
   toc:
     - file: README.md
     - title: Preamble
       children: 
         - file: notebooks/how-to-cite.md
-    - title: Xarray Notebook
+    - title: ERA5 Analysis and Visualization
       children:
-        - file: notebooks/xarray.ipynb
+        - file: notebooks/ERA5_Zarr.ipynb
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
+

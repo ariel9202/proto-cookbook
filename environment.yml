@@ -5,3 +5,10 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+Packages:
+  - xarray
+  - numpy
+  - pandas
+  - cartopy
+  - matplotlib
+  - tropycal

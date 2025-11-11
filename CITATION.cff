@@ -4,8 +4,8 @@ authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
   - family-names: Fuller
     given-names: Ariel 
-    orcid: https://orcid.org/0009-0006-1703-7290 # optional
-    website: https://github.com/brian-rose # optional
+    orcid: https://orcid.org/0009-0006-1703-7290 # 
+    website: https://github.com/ariel9202 
     affiliation: University at Albany (State University of New York) # optional
-    title: "Cookbook Template"
-    abstract: "A sample cookbook description."
+    title: "Analyzing the Landfall of Hurricane Ida: Atmospheric Dynamics and Impacts"
+    abstract: "This project analyzes the landfall of Hurricane Ida (2021) using Python-based data visualization and analysis techniques. Atmospheric variables such as pressure, wind speed, and precipitation were examined to understand the storm’s intensity and structure as it made landfall along the Louisiana coast. Model outputs and observational datasets were used to investigate key atmospheric dynamics that contributed to Ida’s rapid intensification and destructive impact."
